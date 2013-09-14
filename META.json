@@ -61,13 +61,13 @@
    "release_status" : "unstable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/hagino3000/WebService-PeX-GiftOndemand/issues"
+         "web" : "https://github.com/voyagegroup/WebService-PeX-GiftOndemand/issues"
       },
-      "homepage" : "https://github.com/hagino3000/WebService-PeX-GiftOndemand",
+      "homepage" : "https://github.com/voyagegroup/WebService-PeX-GiftOndemand",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/hagino3000/WebService-PeX-GiftOndemand.git",
-         "web" : "https://github.com/hagino3000/WebService-PeX-GiftOndemand"
+         "url" : "git://github.com/voyagegroup/WebService-PeX-GiftOndemand.git",
+         "web" : "https://github.com/voyagegroup/WebService-PeX-GiftOndemand"
       }
    },
    "version" : "0.01",
