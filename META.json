@@ -59,6 +59,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/hagino3000/WebService-PeX-GiftOndemand/issues"
+      },
+      "homepage" : "https://github.com/hagino3000/WebService-PeX-GiftOndemand",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/hagino3000/WebService-PeX-GiftOndemand.git",
+         "web" : "https://github.com/hagino3000/WebService-PeX-GiftOndemand"
+      }
+   },
    "version" : "0.01",
    "x_contributors" : [
       "hagino3000 <hagino.3000@gmail.com>"
