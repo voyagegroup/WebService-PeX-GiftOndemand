@@ -114,6 +114,12 @@ __END__
 
 =encoding utf-8
 
+=begin html
+
+<img src="https://travis-ci.org/voyagegroup/WebService-PeX-GiftOndemand.png?branch=master">
+
+=end html
+
 =head1 NAME
 
 WebService::PeX::GiftOndemand - PeX ondemand gift exchange API wrapper

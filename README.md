@@ -1,3 +1,5 @@
+<img src="https://travis-ci.org/voyagegroup/WebService-PeX-GiftOndemand.png?branch=master">
+
 # NAME
 
 WebService::PeX::GiftOndemand - PeX ondemand gift exchange API wrapper
