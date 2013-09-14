@@ -170,7 +170,7 @@ L<http://pex.jp/alliance/ondemand>
 
 =head1 LICENSE
 
-Copyright (C) Takashi Nishibayashi.
+Copyright (C) VOYAGE GROUP, inc.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
