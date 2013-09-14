@@ -59,5 +59,8 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "version" : "0.01",
+   "x_contributors" : [
+      "hagino3000 <hagino.3000@gmail.com>"
+   ]
 }
