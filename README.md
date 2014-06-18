@@ -1,4 +1,4 @@
-<img src="https://travis-ci.org/voyagegroup/WebService-PeX-GiftOndemand.png?branch=master">
+[![Build Status](https://travis-ci.org/voyagegroup/WebService-PeX-GiftOndemand.png?branch=master)](https://travis-ci.org/voyagegroup/WebService-PeX-GiftOndemand)
 
 # NAME
 
